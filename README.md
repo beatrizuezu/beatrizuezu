@@ -1,10 +1,33 @@
-### Hi there, I'm Beatriz Uezu 👋
+## Hi there, I'm Beatriz Uezu 👋
 
 - I'm Brazilian 🇧🇷 who lives in Stockholm, Sweden 🇸🇪
 - I'm a Backend Engineer and Specialized in Software Engineering 👩‍💻
 - I like working out 💪, running 🏃 and photography 📷️
 -  Pronouns: she/her 😄
 
+
+### 🛠 Technologies and tools
+
+- Python
+- FastAPI
+- Sanic
+- Django
+- Poetry
+- Kafka
+- Kubernetes
+- Postgresql
+- MongoDB
+- ElasticSearch
+- Terraform
+- Google Cloud Platform
+- Amazon Web Services
+- Kotlin
+- Micronaut
+- gRPC
+
+
+
+## You can find me here
 
 <div> 
   <a href = "mailto:beatriz.uezugmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
