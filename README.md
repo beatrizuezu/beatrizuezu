@@ -3,7 +3,9 @@
 - I'm Brazilian 🇧🇷 and I live in Stockholm, Sweden 🇸🇪
 - I'm a Backend Engineer and Specialized in Software Engineering 👩‍💻
 - I like working out 💪, running 🏃 and photography 📷️
--  Pronouns: she/her 😄
+- I was Pyladies São Paulo co-organizer, I'm Pyladies Stockholm volunteer and a Django Girls São Paulo co-organizer
+- Pronouns: she/her 😄
+
 
 
 ### 🛠 Technologies and tools
