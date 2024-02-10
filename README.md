@@ -1,6 +1,6 @@
 ## Hi there, I'm Beatriz Uezu 👋
 
-- I'm Brazilian 🇧🇷 who lives in Stockholm, Sweden 🇸🇪
+- I'm Brazilian 🇧🇷 and I live in Stockholm, Sweden 🇸🇪
 - I'm a Backend Engineer and Specialized in Software Engineering 👩‍💻
 - I like working out 💪, running 🏃 and photography 📷️
 -  Pronouns: she/her 😄
